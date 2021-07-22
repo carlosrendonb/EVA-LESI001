@@ -2,7 +2,7 @@
 //rutas generales
 define("SERVIDOR", "carlosrendonb.github.io");
 define("NOMBREAPP", "EVA-LESI001");
-define("RUTAAPP","http://".SERVIDOR."/".NOMBREAPP);
+define("RUTAAPP","https://".SERVIDOR."/".NOMBREAPP);
 
 // RUTA RECURSOS
 define("RUTACSS",RUTAAPP.'/assets/css');
