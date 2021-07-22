@@ -1,6 +1,6 @@
 <?php
 //rutas generales
-define("SERVIDOR", "localhost");
+define("SERVIDOR", "carlosrendonb.github.io");
 define("NOMBREAPP", "eva_lesi");
 define("RUTAAPP","http://".SERVIDOR."/".NOMBREAPP);
 
@@ -14,7 +14,7 @@ define('HEADER', 'view/plantillas/header.php');
 define('FOOTER', 'view/plantillas/footer.php');
 
 // RUTAS PARA BASE DE DATOS
-define("SERVIDORBD", "localhost");
+define("SERVIDORBD", "carlosrendonb.github.io");
 define("PUERTO", "3306");
 define("NOMBREBD", "eva_lesi");
 define("USUARIO", "root");
