@@ -1,7 +1,7 @@
 <?php
 //rutas generales
 define("SERVIDOR", "carlosrendonb.github.io");
-define("NOMBREAPP", "eva_lesi");
+define("NOMBREAPP", "EVA-LESI001");
 define("RUTAAPP","http://".SERVIDOR."/".NOMBREAPP);
 
 // RUTA RECURSOS
